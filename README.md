@@ -1,5 +1,5 @@
 ## Oiii eu sou o Pedro Vitor, Programador Front-End!
-<div align="center" style:"display: display_flex">
+<div align="center" style:"display: display_flex justify-content: space-between">
   <a href="https://github.com/Heloir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heloir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heloir&layout=compact&langs_count=7&theme=dracula"/>
