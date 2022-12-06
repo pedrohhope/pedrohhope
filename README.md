@@ -7,8 +7,9 @@
 
 <div align="center">
   <a href="https://github.com/Heloir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heloir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heloir&layout=compact&langs_count=7&theme=dracula"/>               </div>                     
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Heloir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heloir&layout=compact&langs_count=7&theme=dracula"/>
+</div>                     
 <h2></h2>
        <div align="left">
         <a href="https://www.linkedin.com/in/pedro-vitor-1ba839243/" target="__blank">
