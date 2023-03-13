@@ -4,8 +4,6 @@
        Pedro Vitor | Front-end Developer
         </a>
     </h1>
-                
-<h2></h2>
        <div align="left">
         <a href="https://www.linkedin.com/in/pedro-vitor-1ba839243/" target="__blank">
             <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
