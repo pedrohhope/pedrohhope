@@ -4,6 +4,7 @@
        Pedro Vitor | Front-end Developer
         </a>
     </h1>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hyxtheone&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="José Luís github stats" />
        <div align="center">
         <a href="https://www.linkedin.com/in/pedro-vitor-1ba839243/" target="__blank">
             <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
