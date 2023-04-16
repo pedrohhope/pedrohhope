@@ -5,7 +5,7 @@
         </a>
     </h1>  
     <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Heloir&show_icons=true&count_private=true&hide_border=true&title_color=48cae4&icon_color=48cae4&text_color=48cae4&bg_color=0d1117" alt="Pedro github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Heloir&show_icons=true&count_private=true&hide_border=true&title_color=48cae4&icon_color=48cae4&text_color=f1faee&bg_color=0d1117" alt="Pedro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heloir&layout=compact&hide_border=true&title_color=48cae4&text_color=48cae4&bg_color=0d1117" />
 </div>
        <div align="center">
