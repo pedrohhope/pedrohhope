@@ -6,6 +6,7 @@
     </h1>  
     <div align="center">  
      <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heloir&show_icons=true&theme=dark"/> </a>
+    <a hreft="" <img align="center" src="https://github.com/anuraghazra/github-readme-stats"/> </a>
 </div>
        <div align="center">
         <a href="https://www.linkedin.com/in/pedro-vitor-1ba839243/" target="__blank">
