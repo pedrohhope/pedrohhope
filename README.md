@@ -13,9 +13,7 @@
         </a>
       </div>
 
-<h1 align="center">Linguagens e ferramentas:</h1>
 <div style="display: inline_block;" align="center">
-
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
 |**Linguagem / IDE** | <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
