@@ -15,7 +15,6 @@
             <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
 </div>
-<h2></h2>
 
 <h1 align="center">Linguagens e ferramentas:</h1>
 <div style="display: inline_block;" align="center">
