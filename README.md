@@ -12,7 +12,8 @@
             <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
       </div>
-
+      
+<h1 align="center">Linguagens e ferramentas:</h1>
 <div style="display: inline_block;" align="center">
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
@@ -24,7 +25,8 @@
 |**Main Languages** | <img align="center" alt="Javascript" height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img align="center" alt="NODEJS" height="30"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 <h2></h2>
-<!--      <img src="./img/mario.gif"  height="100%" alt="MARIO"/> -->
+
+<h2></h2>
     
  <div align="center">
  
