@@ -1,9 +1,6 @@
-<h1 align="center">Bem vindo 🖖🏽</h1>
-<a href="https://www.linkedin.com/in/pedro-vitor-1ba839243/" target="_blank">
-    <h1 align="center">
-       Pedro Vitor | Front-end Developer
-        </a>
-    </h1>  
+<div>
+    <h1 align="center"> Pedro Vitor | Front-end Developer 🖖🏽</h1>
+</div>
        <div align="center">
         <a href="https://www.linkedin.com/in/pedro-vitor-1ba839243/" target="__blank">
             <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -14,7 +11,7 @@
         <a href="https://api.whatsapp.com/send?phone=5527997361412" target="__blank">
             <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
         </a>
-</div>
+      </div>
 
 <h1 align="center">Linguagens e ferramentas:</h1>
 <div style="display: inline_block;" align="center">
