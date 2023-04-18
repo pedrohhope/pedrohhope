@@ -4,10 +4,6 @@
        Pedro Vitor | Front-end Developer
         </a>
     </h1>  
-    <div align="center">  
-    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heloir&show_icons=true&theme=dark" height="300px" width="500px"/> </a>
-    <a hreft=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heloir&layout=compact&theme=dark" height="300px" width="450px"/> </a>
-</div>
        <div align="center">
         <a href="https://www.linkedin.com/in/pedro-vitor-1ba839243/" target="__blank">
             <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
