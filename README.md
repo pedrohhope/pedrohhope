@@ -5,7 +5,7 @@
         </a>
     </h1>  
     <div align="center">  
-     <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/> </a>
+     <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heloir&show_icons=true&theme=radical"/> </a>
 </div>
        <div align="center">
         <a href="https://www.linkedin.com/in/pedro-vitor-1ba839243/" target="__blank">
