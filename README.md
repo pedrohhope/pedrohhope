@@ -5,8 +5,7 @@
         </a>
     </h1>  
     <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Heloir&show_icons=true&count_private=true&hide_border=true&title_color=48cae4&icon_color=48cae4&text_color=f1faee&bg_color=0d1117" alt="Pedro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heloir&layout=compact&hide_border=true&title_color=48cae4&text_color=f1faee&bg_color=0d1117" />
+  https://camo.githubusercontent.com/3986fdef016105b2217a0fa57b66c566550e5dfdb27e9bd939211823b9f60f11/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666
 </div>
        <div align="center">
         <a href="https://www.linkedin.com/in/pedro-vitor-1ba839243/" target="__blank">
