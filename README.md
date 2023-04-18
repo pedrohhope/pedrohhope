@@ -4,8 +4,8 @@
        Pedro Vitor | Front-end Developer
         </a>
     </h1>  
-    <div align="center" gap="40px">  
-    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heloir&show_icons=true&theme=dark" height="300px" width=500px/> </a>
+    <div align="center">  
+    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Heloir&show_icons=true&theme=dark" height="300px" width=500px margin-left="20px"/> </a>
     <a hreft=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heloir&layout=compact&theme=dark" height="300px" width=500px/> </a>
 </div>
        <div align="center">
