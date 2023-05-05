@@ -25,14 +25,7 @@
  <img src="./img/mario.gif"  height="100%" alt="MARIO"/>
 </div>
 <h2></h2>
-
-                
-<h2></h2>
-    
- <div align="center">
-  ![Snake animation](https://github.com/Heloir/Heloir/blob/output/github-contribution-grid-snake.svg)
-  </div>
-
+  
 
 <div>
     <img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif"/>
