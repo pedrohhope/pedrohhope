@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center"> Pedro Vitor | Front-end Developer 🖖🏽</h1>
+    <h1 align="center"> Pedro Vitor | Full Stack Developer 🖖🏽</h1>
 </div>
        <div align="center">
         <a href="https://www.linkedin.com/in/pedro-vitor-1ba839243/" target="__blank">
